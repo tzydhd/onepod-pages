@@ -7,7 +7,9 @@
 - `ep57.html`：EP57 从提问到输出
 - `notes-learning.html`：笔记与学习（EP21、EP37、EP88）
 
-三份阅读手册保留原文件内容。内容来源和核查说明见各手册。
+- `habits-change.html`：习惯与改变（EP35、EP53）
+
+四份阅读手册保留原文件内容。内容来源和核查说明见各手册。
 
 GitHub Pages 发布设置：Deploy from a branch → main → / (root)。
 
